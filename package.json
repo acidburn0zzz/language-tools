@@ -15,7 +15,7 @@
         "lint": "eslint \"packages/**/*.{ts,js}\""
     },
     "dependencies": {
-        "axios": "0.19.2"
+        "axios": "0.21.1"
     },
     "devDependencies": {
         "@sveltejs/eslint-config": "github:sveltejs/eslint-config#v5.2.0",
