@@ -49,7 +49,7 @@
         "chokidar": "^3.4.1",
         "cosmiconfig": "^7.0.0",
         "estree-walker": "^2.0.1",
-        "lodash": "^4.17.19",
+        "lodash": "^4.17.21",
         "prettier": "2.1.2",
         "prettier-plugin-svelte": "~1.4.1",
         "source-map": "^0.7.3",
