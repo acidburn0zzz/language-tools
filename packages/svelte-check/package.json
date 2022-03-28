@@ -23,7 +23,7 @@
         "chokidar": "^3.4.1",
         "glob": "^7.1.6",
         "import-fresh": "^3.2.1",
-        "minimist": "^1.2.5",
+        "minimist": "^1.2.6",
         "source-map": "^0.7.3",
         "svelte-preprocess": "^4.0.0",
         "typescript": "*"
